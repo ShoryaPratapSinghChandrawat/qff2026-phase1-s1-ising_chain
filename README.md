@@ -1,6 +1,6 @@
 # QFF 2026 Phase 2 — PS-S1 | Chicken Leg Piece
 
-**Team:** Swarup · Biswajit · Arhaan Sethi · Shorya Pratap Singh Chandrawat<br>
+**Team:**Shorya Pratap Singh Chandrawat<br>
 **Problem:** PS-S1, the open-chain transverse-field Ising ground-state simulation.<br>
 **Phase 1 repository:** [qff2026-phase1-s1-chicken-leg-piece](https://github.com/ShoryaPratapSinghChandrawat/qff2026-phase1-s1-chicken-leg-piece)<br>
 **Phase 1 submission files:** Complete Phase 1 code, data, and artifacts are preserved in [`phase1/`](phase1/).
