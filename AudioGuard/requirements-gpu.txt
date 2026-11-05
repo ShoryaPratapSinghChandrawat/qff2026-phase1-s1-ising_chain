@@ -1,3 +1,0 @@
-# Optional accelerator runtime. Core experiments also run without PyTorch.
--r requirements.txt
-torch==2.5.1
